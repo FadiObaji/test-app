@@ -1,5 +1,5 @@
 {
-  "name": "New folder",
+  "name": "test-monorepo",
   "private": false,
   "scripts": {
     "build": "turbo run build",
