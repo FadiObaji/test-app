@@ -1,5 +1,11 @@
 # web
 
+## 1.1.1
+
+### Patch Changes
+
+- Removed the buttons from web apps
+
 ## 1.1.0
 
 ### Minor Changes
