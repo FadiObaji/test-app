@@ -1,5 +1,11 @@
 # @repo/ui
 
+## 1.1.1
+
+### Patch Changes
+
+- 6f7a5ab: Stuff were added
+
 ## 1.1.0
 
 ### Minor Changes
