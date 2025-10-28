@@ -19,9 +19,15 @@ jobs:
         uses: actions/setup-node@v3
         with:
           node-version: 20
+          cache: 'pnpm'
+
+      - name: Setup pnpm
+        uses: pnpm/action-setup@v2
+        with:
+          version: 9  # or the version you use locally
 
       - name: Install Dependencies
-        run: yarn
+        run: pnpm install
 
       - name: Create Release Pull Request
         uses: changesets/action@v1
