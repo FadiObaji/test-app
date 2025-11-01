@@ -1,13 +1,15 @@
 import { type JSX } from "react";
+import { Button } from "./button";
 
-export function Card({
-  title
+export function Header({
+  appName
 }: {
-  title: string;
+  appName: string;
 }): JSX.Element {
   return (
     <header>
-      <h1>{title}</h1>
+      <h1>{appName}</h1>
+      <Button appName="docs">Click me</Button>
     </header>
   );
 }
