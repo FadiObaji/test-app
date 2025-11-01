@@ -1,5 +1,17 @@
 # web
 
+## 1.2.0
+
+### Minor Changes
+
+- 0300b58: Changed some stuff
+
+### Patch Changes
+
+- b4e7d23: Added header import
+- Updated dependencies [0300b58]
+  - @fadiobaji/ui-test@1.2.0
+
 ## 1.1.2
 
 ### Patch Changes
