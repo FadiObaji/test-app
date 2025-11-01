@@ -1,5 +1,5 @@
 {
-  "name": "test-monorepo",
+  "name": "New folder",
   "private": false,
   "scripts": {
     "build": "turbo run build",
@@ -18,5 +18,5 @@
   "engines": {
     "node": ">=18"
   },
-  "packageManager": "pnpm@10"
+  "packageManager": "pnpm@10.19.0"
 }
