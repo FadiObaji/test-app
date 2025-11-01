@@ -1,5 +1,13 @@
 # docs
 
+## 1.1.2
+
+### Patch Changes
+
+- 6f7a5ab: Stuff were added
+- Updated dependencies [6f7a5ab]
+  - @fadiobaji/ui-test@1.1.1
+
 ## 1.1.1
 
 ### Patch Changes
