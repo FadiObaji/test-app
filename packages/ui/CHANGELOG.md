@@ -1,5 +1,11 @@
 # @repo/ui
 
+## 1.2.0
+
+### Minor Changes
+
+- 0300b58: Changed some stuff
+
 ## 1.1.1
 
 ### Patch Changes
