@@ -1,6 +1,6 @@
 import Image, { type ImageProps } from "next/image";
-import { Button } from "@fadiobaji/ui-test/button";
-import { Header } from "@fadiobaji/ui-test/header";
+// import { Button } from "@fadiobaji/ui-test/button";
+// import { Header } from "@fadiobaji/ui-test/header";
 import styles from "./page.module.css";
 
 type Props = Omit<ImageProps, "src"> & {
