@@ -1,5 +1,11 @@
 # web
 
+## 1.2.1
+
+### Patch Changes
+
+- 3c0808f: lkj
+
 ## 1.2.0
 
 ### Minor Changes
